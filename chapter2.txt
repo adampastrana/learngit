@@ -1,1 +1,3 @@
 It was a tiring day!
+
+New feature 1 added
